@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Formação básica: Git e GitHub](README.md)
+* [Introdução](introducao/README.md)
+  * [Introdução ao Git](introducao/introgit.md)
+* [Configurando o Git](configs/README.md)
+  * [Introdução ao Terminal: O Que é e Como Usar](configs/top1\_terminal.md)
+  * [Instalando o Git (Parte 1)](configs/top2\_instalando.md)
+  * [Instalando o Git (Parte 2)](configs/top3\_instalando2.md)
+  * [Como Gerar uma Chave SSH ed25519 para o Git](configs/top\_ssh.md)
+  * [Aos usuários de Windows](configs/top\_windows.md)
+* [Fundamentos](basics/README.md)
+  * [O básico sobre VCS](basics/top1\_vcs.md)
+  * [Vocabulário básico](basics/top2\_voca.md)
+  * [Criando uma conta no GitHub](basics/top3\_criaconta.md)
